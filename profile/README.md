@@ -11,10 +11,10 @@ Visit our [website](https://nectarclimate.com) to learn more about our vision an
 ## Our Projects
 
 ### Utility Management Platform
-Our flagship platform provides comprehensive tools for carbon accounting, enabling businesses to track and report their emissions with precision. It includes features such as:
+Our flagship platform provides comprehensive tools for utility management, enabling businesses to track and report their energy, water, and waste usage with precision. It includes features such as:
 - **Continuous Data Integration:** Seamlessly integrate data from various sources.
-- **Detailed Reporting:** Generate detailed reports to meet regulatory requirements.
-- **Actionable Insights:** Access insights to identify opportunities for emission reduction.
+- **Detailed Analytics:** Generate detailed reports to meet regulatory requirements.
+- **Actionable Insights:** Access insights to identify opportunities for energy efficiency improvements.
 
 ### Utility Bill Automation
 Streamline the process of managing utility bills with our automation solution. Key features include:
