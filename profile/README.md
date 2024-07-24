@@ -10,7 +10,7 @@ Visit our [website](https://nectarclimate.com) to learn more about our vision an
 
 ## Our Projects
 
-### Carbon Accounting Platform
+### Utility Management Platform
 Our flagship platform provides comprehensive tools for carbon accounting, enabling businesses to track and report their emissions with precision. It includes features such as:
 - **Continuous Data Integration:** Seamlessly integrate data from various sources.
 - **Detailed Reporting:** Generate detailed reports to meet regulatory requirements.
