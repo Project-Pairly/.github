@@ -2,8 +2,6 @@
 
 Welcome to Nectar's GitHub organization! We are dedicated to leveraging technology to combat climate change by providing innovative solutions for carbon accounting and environmental sustainability.
 
-![Nectar Climate Logo](https://nectarclimate.com/logo.png)
-
 ## About Us
 
 At Nectar, we believe in the power of data to drive meaningful change. Our mission is to empower businesses and organizations with the tools they need to accurately measure, manage, and reduce their carbon footprint. By harnessing the latest advancements in technology, we aim to make sustainability accessible and actionable for everyone.
